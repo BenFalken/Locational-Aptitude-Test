@@ -5,4 +5,4 @@ Note:
 
 Add a folder in this file labeled RollSurfaces. This will store the graphs for the trials in their own dedicated directory.
 
-Change the pathname from benfalken to the approprtiate path.
+Change the pathname from benfalken to the appropriate path.
